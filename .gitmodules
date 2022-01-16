@@ -2,5 +2,5 @@
   path = backend
   url = https://github.com/kananilai/sns_backend
 [submodule "frontend"]
-  path = frotend
+  path = frontend
   url = https://github.com/kananilai/sns_frontend
