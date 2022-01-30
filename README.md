@@ -1,8 +1,8 @@
 # タイトル
 Twitter風SNS
 # 使用技術
-Nuxt.js
-Laravel
+Nuxt.js  
+Laravel  
 Firebase
 # 作成期間
 約1ヶ月
