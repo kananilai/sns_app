@@ -12,4 +12,5 @@ Twitter風のSNSです。投稿機能、いいね機能、コメント機能が�
 Nuxt.jsからLaravelに非同期(axios)でデータを送り、返り値をNuxt.js側で表示させています。
 フロントエンドとバックエンドで処理を分けたWebアプリケーションです。
 
+# Youtube リンク
 [![](https://img.youtube.com/vi/x9Sh_hBBHdE/0.jpg)](https://www.youtube.com/watch?v=x9Sh_hBBHdE)
