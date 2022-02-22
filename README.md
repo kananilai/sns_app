@@ -13,4 +13,4 @@ Nuxt.jsからLaravelに非同期(axios)でデータを送り、返り値をNuxt.
 フロントエンドとバックエンドで処理を分けたWebアプリケーションです。
 
 # Youtube リンク
-[![](https://img.youtube.com/vi/x9Sh_hBBHdE/0.jpg)](https://www.youtube.com/watch?v=x9Sh_hBBHdE)
+[![](https://img.youtube.com/vi/BbX2ytrvgg8/0.jpg)](https://www.youtube.com/watch?v=BbX2ytrvgg8)
